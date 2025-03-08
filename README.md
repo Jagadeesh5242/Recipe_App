@@ -1,4 +1,5 @@
 **🍽️ Recipe Finder App**
+
 A Flutter app that helps users find recipes based on ingredients, save favorites, and share with friends!
 
 🚀 Features
