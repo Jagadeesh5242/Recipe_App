@@ -14,11 +14,14 @@ Backend: REST API Integration (e.g., Spoonacular API)
 Other Tools: HTTP, Shared Preferences, etc.
 
 🎯 Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/Jagadeesh5242/Recipe_App.git
 cd Recipe_App
+
 2️⃣ Install Dependencies
 flutter pub get
+
 3️⃣ Run the App
 flutter run
 (Make sure you have Flutter installed. If not, check Flutter Docs)
